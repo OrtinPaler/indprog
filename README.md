@@ -1,13 +1,1 @@
-# ignore all xcodeproj files
-*.xcodeproj
-
-# ignore all main files
-main
-
-# ignore all .DS_Store
-.DS_Store
-
-# ignore .gitignore
-.gitignore
-
-
+# Laboratory work on the course "Industrial Programming Workshop"
